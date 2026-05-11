@@ -16,7 +16,7 @@ If anyone has any complaints about this repository, feel free to contact me by e
 
 A quick sandbox-based solver.
 
-Originally made with Claude. Not pretty, but it works.
+Originally made with Claude. Not Goot, but it works. (rlly shitty)
 
 ### `extracted_pow.js`
 
